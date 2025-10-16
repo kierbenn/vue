@@ -14,7 +14,7 @@
 
 <style scoped>
     header img {
-        height: 150px;
+        height: 100px;
     }
     header h1 {
         font-size: 2rem;
